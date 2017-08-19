@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#41008E</color>
+    <color name="colorPrimaryDark">#0C0038</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="midAubergine100Percent">#5E2750</color>
+    <color name="midAubergine90Percent">#6E3C61</color>
+    <color name="midAubergine80Percent">#7E5273</color>
+    <color name="midAubergine70Percent">#8E6784</color>
+    <color name="midAubergine60Percent">#9E7D96</color>
+    <color name="midAubergine50Percent">#AE93A7</color>
+
+    <color name="ubuntuOrange100Percent">#E95420</color>
+    <color name="ubuntuOrange90Percent">#EB6536</color>
+    <color name="ubuntuOrange80Percent">#ED764D</color>
+    <color name="ubuntuOrange70Percent">#F08763</color>
+    <color name="ubuntuOrange60Percent">#F29879</color>
+    <color name="ubuntuOrange50Percent">#F4AA90</color>
+
+    <color name="warmGray100Percent">#AEA79F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>
