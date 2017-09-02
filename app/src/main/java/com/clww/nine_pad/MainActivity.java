@@ -17,7 +17,7 @@ import android.media.SoundPool;
 
 public class MainActivity extends AppCompatActivity implements View.OnTouchListener{
 
-    //hmmmm
+    //hmmmmmmm
     private SoundPool sp;
     private int sp1Id, sp2Id, sp3Id, sp6Id;
     private final int MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE = 0;
