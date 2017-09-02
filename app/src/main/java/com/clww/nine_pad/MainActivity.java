@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
             case R.id.button9:
                 return true;
             case R.id.buttonSettings:
-                if(event.getAction() == MotionEvent.ACTION_UP){
+                if(event.getAction() == MotionEvent.ACTION_DOWN){
                     Intent i = new Intent(getApplicationContext(), SettingsActivity.class);
                     startActivity(i);
                     overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
