@@ -17,12 +17,13 @@ import android.media.SoundPool;
 
 public class MainActivity extends AppCompatActivity implements View.OnTouchListener{
 
-    //hmmmmmmm
+    //hmmm
     private SoundPool sp;
     private int sp1Id, sp2Id, sp3Id, sp6Id;
     private final int MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE = 0;
     private final int MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 1;
     private final int MY_PERMISSIONS_REQUEST_RECORD_AUDIO = 2;
+    private int wowowowowowo = 1000;
 
     @TargetApi(21)
     @Override
